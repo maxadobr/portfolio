@@ -143,24 +143,59 @@
   ],
   "portfolio": [
     {
-      "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
-      "certificado": "https://www.dio.me/certificate/34F1FBA1"
+      "name": "Pokedex Web",
+      "description": "",
+      "gitHub": "https://github.com/maxadobr/js-developer-pokedex",
+      "git": true
     },
     {
-      "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
-      "certificado": "https://www.dio.me/certificate/9A5090FC"
+      "name": "Yogioh Game",
+      "description": "",
+      "gitHub": "https://github.com/maxadobr/js-yugioh",
+      "git": true
+    },
+    {
+      "nome": "Static Portoflio",
+      "description": "",
+      "gitHub": "https://github.com/maxadobr/maxadobr.github.io",
+      "git": true
+    },
+    {
+      "name": "Discord Old Page Clone",
+      "description": "",
+      "gitHub": "https://github.com/maxadobr/discord-clone-responsivo-css-dio",
+      "git": true
+    },
+    {
+      "name": "Youtube Clone",
+      "description": "",
+      "gitHub": "https://github.com/maxadobr/youtube-clone-css-dio",
+      "git": true
     }
   ],
   "experiencias": [
     {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
+      "position": "Autônomo",
+      "company": "Prestação de Serviços – Projetos e Soluções",
+      "period": {
+        "start": "05/2024",
+        "finish": "Hoje"
+      }
+    },
+    {
+      "position": "Madox - Autopeças em Borracha ME",
+      "company": "Education Tech Lead",
+      "period": {
+        "start": "09/2021",
+        "finish": "01/2024"
+      }
+    },
+    {
+      "position": "Desenvolvedor de produtos",
+      "company": "Neobor - Indústria de Artefatos de Borracha Ltda",
+      "period": {
+        "start": "04/2017",
+        "finish": "04/2021"
       }
     }
   ]
