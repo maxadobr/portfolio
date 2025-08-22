@@ -35,17 +35,18 @@ function updateLanguages(profileData) {
     languages.innerHTML = profileData.languages.map(language => `<li>${language.lang} (${language.level})</li>`).join('');
 }
 
-/*
-<li>
-    <h3 class="title">Front-end Developer / dio.me</h3>
-    <p class="period">Jan 2020 - Current</p>
-    <p>
-        Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est
-        reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure,
-        iste.
-    </p>
-</li>
-*/
+function updatePortfolio(profileData) {
+    const portfolio = document.querySelector('.portfolio')
+
+    portfolio.innerHTML = profileData.portfolio.map(project => {
+        return `
+            <li>
+                <h3 class="title ${project.github ? 'github' : ''}">${project.name}</h3>
+                <a href="${project.url}" target="_blank">${project.url}</a>
+            </li>
+        `
+    }).join(``);
+}
 
 function updateExperiences(profileData) {
     const experiences = document.querySelector('.experiences');
@@ -59,7 +60,7 @@ function updateExperiences(profileData) {
     updateSoftSkills(profileData)
     updateHardSkills(profileData)
     updateLanguages(profileData)
-
+    updatePortfolio(profileData)
     updateExperiences(profileData)
     console.log(profileData)
 })()

@@ -145,31 +145,31 @@
     {
       "name": "Pokedex Web",
       "description": "",
-      "gitHub": "https://github.com/maxadobr/js-developer-pokedex",
+      "url": "https://github.com/maxadobr/js-developer-pokedex",
       "git": true
     },
     {
       "name": "Yogioh Game",
       "description": "",
-      "gitHub": "https://github.com/maxadobr/js-yugioh",
+      "url": "https://github.com/maxadobr/js-yugioh",
       "git": true
     },
     {
       "nome": "Static Portoflio",
       "description": "",
-      "gitHub": "https://github.com/maxadobr/maxadobr.github.io",
+      "url": "https://github.com/maxadobr/maxadobr.github.io",
       "git": true
     },
     {
       "name": "Discord Old Page Clone",
       "description": "",
-      "gitHub": "https://github.com/maxadobr/discord-clone-responsivo-css-dio",
+      "url": "https://github.com/maxadobr/discord-clone-responsivo-css-dio",
       "git": true
     },
     {
       "name": "Youtube Clone",
       "description": "",
-      "gitHub": "https://github.com/maxadobr/youtube-clone-css-dio",
+      "url": "https://github.com/maxadobr/youtube-clone-css-dio",
       "git": true
     }
   ],
@@ -184,7 +184,7 @@
     },
     {
       "position": "Madox - Autopeças em Borracha ME",
-      "company": "Education Tech Lead",
+      "company": "Analista de Operações Industriais",
       "period": {
         "start": "09/2021",
         "finish": "01/2024"
