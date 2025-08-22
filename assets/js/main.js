@@ -10,7 +10,7 @@ function updateProfileInfo(profileData) {
     title.innerText = profileData.title
 
     const location = document.querySelector('.profile_location');
-    location.innerText = profileData.location.country
+    location.innerText = profileData.location
 
     const email = document.querySelector('.profile_email');
     email.innerText = profileData.email
@@ -62,5 +62,4 @@ function updateExperiences(profileData) {
     updateLanguages(profileData)
     updatePortfolio(profileData)
     updateExperiences(profileData)
-    console.log(profileData)
 })()
