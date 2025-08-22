@@ -2,9 +2,7 @@
   "name": "Marcelo Machado",
   "photo": "https://avatars.githubusercontent.com/u/150363449?s=400&u=34f160a844d59410427c758edfa7931e4a559f01&v=4",
   "title": "Desenvolvedor Front-End | JavaScript, HTML, CSS | Experiência em Gestão e Execução de Projetos Industriais",
-  "location": {
-    "pais": "Brasil"
-  },
+  "location": "Brasil",
   "email": "maxado.mdx@gmail.com",
   "skills": {
     "hardSkills": [
@@ -23,8 +21,10 @@
     ],
     "softSkills": [
       "Comunicação",
-      "Empatia",
-      "Poder de Sedução Imcomparável"
+      "Resolução de Problemas",
+      "Organização",
+      "Adaptável",
+      "Aprendizagem Rápida"
     ]
   },
   "idiomas": [
