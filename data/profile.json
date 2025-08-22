@@ -1,13 +1,11 @@
 {
-  "nome": "Venilton FalvoJr",
-  "titulo": "Education Tech Lead na DIO",
+  "nome": "Marcelo Machado",
+  "photo": "https://avatars.githubusercontent.com/u/150363449?s=400&u=34f160a844d59410427c758edfa7931e4a559f01&v=4",
+  "titulo": "Desenvolvedor Front-End | JavaScript, HTML, CSS | Experiência em Gestão e Execução de Projetos Industriais",
   "localidade": {
-    "cidade": "Araraquara",
-    "estado": "São Paulo",
     "pais": "Brasil"
   },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "email": "maxado.mdx@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -36,11 +34,11 @@
     },
     {
       "nome": "Inglês",
-      "nivel": "Intermediário"
+      "nivel": "Avançado"
     },
     {
-      "nome": "Espanhol",
-      "nivel": "Básico"
+      "nome": "Alemão",
+      "nivel": "Iniciante"
     }
   ],
   "educacao": [
