@@ -65,3 +65,7 @@ a:hover {
         width: 70vw;
     }
 }
+
+.debug {
+    border: solid 1px red;
+}

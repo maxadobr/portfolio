@@ -67,30 +67,30 @@
       "Aprendizagem Rápida"
     ]
   },
-  "idiomas": [
+  "languages": [
     {
-      "nome": "Português",
-      "nivel": "Nativo"
+      "lang": "Português",
+      "level": "Nativo"
     },
     {
-      "nome": "Inglês",
-      "nivel": "Avançado"
+      "lang": "Inglês",
+      "level": "Avançado"
     },
     {
-      "nome": "Alemão",
-      "nivel": "Iniciante"
+      "lang": "Alemão",
+      "level": "Iniciante"
     }
   ],
-  "educacao": [
+  "education": [
     {
-      "nome": "dio.me",
-      "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "2020",
-        "fim": "Atualmente"
+      "course": "dio.me",
+      "description": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
+      "institution": "Digital Innovation One (DIO)",
+      "period": {
+        "start": "2020",
+        "finish": "Atualmente"
       },
-      "certificados": [
+      "certifications": [
         {
           "nome": "Formação: Blockchain Specialist (25h)",
           "link": "https://www.dio.me/certificate/28601B02"
@@ -114,30 +114,30 @@
       ]
     },
     {
-      "nome": "Doutorado em Engenharia de Software",
-      "descricao": "Uma Infraestrutura de Apoio ao Ensino e Aprendizagem de Línguas de Sinais",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2018",
-        "fim": "Atualmente"
+      "course": "Doutorado em Engenharia de Software",
+      "description": "Uma Infraestrutura de Apoio ao Ensino e Aprendizagem de Línguas de Sinais",
+      "institution": "Universidade de São Paulo (USP)",
+      "period": {
+        "start": "2018",
+        "finish": "Atualmente"
       }
     },
     {
-      "nome": "Mestrado em Engenharia de Software",
-      "descricao": "Estudo e Definição de Uma Linha de Produtos de Software Para o Desenvolvimento de Aplicações Educacionais Moveis",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2012",
-        "fim": "2015"
+      "course": "Mestrado em Engenharia de Software",
+      "description": "Estudo e Definição de Uma Linha de Produtos de Software Para o Desenvolvimento de Aplicações Educacionais Moveis",
+      "institution": "Universidade de São Paulo (USP)",
+      "period": {
+        "start": "2012",
+        "finish": "2015"
       }
     },
     {
-      "nome": "Bacharelado em Engenharia de Computação",
-      "descricao": "",
-      "instituicao": "Universidade de Araraquara (UNIARA)",
-      "periodo": {
-        "inicio": "2007",
-        "fim": "2011"
+      "course": "Bacharelado em Engenharia de Computação",
+      "description": "",
+      "institution": "Universidade de Araraquara (UNIARA)",
+      "period": {
+        "start": "2007",
+        "finish": "2011"
       }
     }
   ],
