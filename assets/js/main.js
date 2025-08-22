@@ -26,12 +26,12 @@ function updateSoftSkills(profileData) {
 function updateHardSkills(profileData) {
     const hardSkills = document.querySelector('.hard_skills');
 
-    hardSkills.innerHTML = profileData.skills.hardSkills.map(skill => `<li><img src="${skill.logo}" alt="${skill.name}"></li>`).join('')
+    hardSkills.innerHTML = profileData.skills.hardSkills.map(skill => `<li><img src="${skill.logo}" alt="${skill.name}" title="${skill.name}"></li>`).join('');
 }
 
 (async () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
     updateSoftSkills(profileData)
-    updatehardSkills(profileData)
+    updateHardSkills(profileData)
 })()
